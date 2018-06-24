@@ -39,6 +39,9 @@ google_analytics: UA-121187419-1
 
 service_worker: true
 
+disqus:
+  shortname: sh-sh-sh
+
 # BUILD SETTINGS
 encoding: utf-8
 markdown: kramdown
